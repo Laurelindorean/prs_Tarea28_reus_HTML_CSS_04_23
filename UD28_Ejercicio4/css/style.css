@@ -1,29 +1,28 @@
-body{
-    background-color: blanchedalmond;
-    font-family:Helvetica;
+body {
+  background-color: blanchedalmond;
+  font-family: Helvetica;
 }
 
-h1{
-    background-color: burlywood;
-    padding-left: 10px;
+h1 {
+  background-color: burlywood;
+  padding-left: 10px;
 }
 
-h3{
-    font-style: italic;
-    color:rgb(54, 174, 221);
-    
+h3 {
+  font-style: italic;
+  color: rgb(54, 174, 221);
 }
 
-.instructions{
-    font-style: italic;
-    color:rgb(90, 120, 146);
+.instructions {
+  font-style: italic;
+  color: rgb(90, 120, 146);
 }
 
-.subTitle{
-    font-weight: bold;
-    color: #688191;
+.subTitle {
+  font-weight: bold;
+  color: #688191;
 }
 
-.list{
-    margin-left: 20px;
+.list {
+  margin-left: 20px;
 }
