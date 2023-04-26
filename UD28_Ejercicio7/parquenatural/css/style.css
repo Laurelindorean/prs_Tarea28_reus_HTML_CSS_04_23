@@ -1,0 +1,32 @@
+body {
+  font-size: 15px;
+  font-family: "Lucida Sans Unicode", sans-serif;
+  border: #d3d3d3 5px solid;
+  margin: 10px;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(22, 170, 22);
+  letter-spacing: 0.2em;
+}
+h1 span {
+  color: rgb(226, 158, 68);
+}
+
+h3 {
+  color: rgb(51, 210, 30);
+  border-bottom: #cfdfb5 1px solid;
+}
+
+h4 {
+  color: rgb(184, 124, 11);
+  margin-top: 20px;
+}
+
+.principal {
+  border: #d3d3d3 1px solid;
+  margin: 20px 20px 10px;
+  padding: 15px 15px;
+}
